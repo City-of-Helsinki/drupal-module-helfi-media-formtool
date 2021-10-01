@@ -1,7 +1,5 @@
 # Drupal Media Form Tool
 
-![CI](https://github.com/City-of-Helsinki/drupal-module-helfi-media-formtool/workflows/CI/badge.svg)
-
 Allows Form Tool Forms to be embedded using Media.
 
 ### Drupal Media Form Tool on paragraphs
